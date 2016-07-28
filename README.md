@@ -1,1 +1,1 @@
-[zotrix](telegram.me/pplugins)
+# [zotrix](telegram.me/pplugins)
